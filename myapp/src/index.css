@@ -129,9 +129,12 @@ height: 100%;
 /* extra small */
 @media(max-width:576px) {
   .paternt-todo {
-    width: 97%;
+    width: 100%;
  
 
+}
+.addtofrom  button {
+  padding: 5px 1rem !important;
 }
 }
 
